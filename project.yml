@@ -1,0 +1,30 @@
+# Members of your group.
+group:
+  - name: Nathan Dang
+    netid: nd432
+  - name: Leon Huang
+    netid: lyh7
+  - name: Leon Jiao
+    netid: lsj47
+  - name: Andrew Kang
+    netid: ayk36
+  - name: Srivatsa Kundurthy
+    netid: srk247
+# Your PM.
+pm:
+  name: Alex Kozik
+  netid: ajk333
+# Set to false if you don't want your gallery entry to be public.
+publish: false
+# Pithy title
+title: "The OCaml Election Outcome Simulator"
+# OK if this is a Cornell Github link, but public gallery viewers won't be able to see it.
+git-repo: "https://github.coecis.cornell.edu/ayk36/cs3110-final"
+# If you have no demo screencast, replace the url string with an empty string ""
+demo-video-url: ""
+# Write a short, attention-grabbing description of your project.
+desc: The OCaml Election Outcome Simulator is an interactive program that gives
+users the ability to predict the outcome of any election. Users can add
+their own data, such as data on previous elections as well as candidate popularity, 
+as well as simulate their own fantasy elections with fantasy electoral subdivisions. 
+With the power of machine learning and data analysis, anything is possible!

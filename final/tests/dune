@@ -1,0 +1,7 @@
+(test
+ (name test_final)
+ (libraries ounit2 final)
+ (deps
+  (glob_files *.csv))
+  )
+  
